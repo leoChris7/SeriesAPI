@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesAPI", "SeriesAPI\SeriesAPI.csproj", "{CCCDB9B2-A196-4EAA-9733-5D5CC746826D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCDB9B2-A196-4EAA-9733-5D5CC746826D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCDB9B2-A196-4EAA-9733-5D5CC746826D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCDB9B2-A196-4EAA-9733-5D5CC746826D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCDB9B2-A196-4EAA-9733-5D5CC746826D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA35A60-3A4F-4C39-96FE-D07CB11367BE}
+	EndGlobalSection
+EndGlobal
